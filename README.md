@@ -80,3 +80,5 @@ Please feel free to use either GitHub or Discord for submitting issues.
 ### Building your own keyboard app?
 
 I'm planning on building out an API to make it easy for users to share their scanned hand data with other keyboard-related websites. If you maintain a keyboard-related site and are interested in adding a way for visitors to quickly see how your keyboard fits their hand, send me an email to ryan at ryanis .cool. You can of course use this code to build out your own hand scanning solution, provided you abide by the terms of the [AGPL-3.0 license](https://github.com/rianadon/Cosmos-Keyboards/blob/main/LICENSE).
+
+<!-- Auto-update: 2025-10-14T15:34:51.663864 -->
