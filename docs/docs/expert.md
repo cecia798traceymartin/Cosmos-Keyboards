@@ -308,3 +308,5 @@ There are a few limitations of basic/advanced mode that will result in your prog
 - **Code Structure and Comments.** Basic/Advanced Mode stores only keyboard-specific data. _If your code is particularly clever, you should save it before switching to Basic/Advanced._
 
 You generally will not run into these limitations unless you have very specific needs that Basic/Advanced does not deliver.
+
+<!-- Auto-update: 2025-10-17T10:36:14.190162 -->
